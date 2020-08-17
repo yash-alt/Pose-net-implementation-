@@ -1,6 +1,5 @@
 # Pose-net-implementation-
 Using pose net to detect human pose. 
-https://user-images.githubusercontent.com/61494224/90398862-b21b6c00-e0b7-11ea-8431-ca72e7efdf61.png
 
 
 # Pose-net-implementation- 
