@@ -20,5 +20,10 @@ A pop will appear asking to choose the folder to run on the server Go to your pa
 
 Now click on the address (http://127.0.0.1:8887) as shown in the image
 
+Your webcam will be loaded with keypoints in the frame
+
+# storing the result in the array output
+Right click on your camera output, go to inspect elements
+
 
 And we are done!
